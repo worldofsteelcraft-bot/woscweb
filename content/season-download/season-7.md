@@ -1,12 +1,12 @@
 ---
+draft: false
 title: Season 7 World Download
 date: 2021-11-07T15:11:01.000Z
-draft: false
+description: Season 7 is the seventh Season of World of SteelCraft SMP that
+  takes about 2 months. The season started on August 6 and ended on November 7.
 permalink: /season-download/season-7
 customPagePreviewImage: true
 customPagePreviewImageURL: uploads/Screenshot-54-1024x576.png
-description: Season 7 is the seventh Season of World of SteelCraft SMP that
-  takes about 2 months. The season started on August 6 and ended on November 7.
 category: page
 ---
 Season 7 is the seventh Season of World of SteelCraft SMP that takes about 2 months. The season started on August 6 and ended on November 7.
@@ -24,6 +24,7 @@ Season 7 is the seventh Season of World of SteelCraft SMP that takes about 2 mon
 
 ### Season World Download Links.
 These are the world download links to play:
+
 | Mirror | Link |
 |-|-|
 | WoSC Files | [Download Here](https://wosc.tk/WoSCSMPS7-GD) | 
