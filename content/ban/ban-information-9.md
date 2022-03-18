@@ -1,6 +1,8 @@
 ---
 title: Ban Information 010
 date: 2022-03-14T12:16:23.593Z
+description: Information about Ban and Reason
+permalink: /ban/ban-010
 customPagePreviewImageURL: /images/preview-banhammer.png
 author: dplayzgames06
 ---
